@@ -11,6 +11,7 @@ This case study is based on a fictional company called, Cyclistic, a bike-share 
 
 The business objective was defined by the following key question:
 > *"How do annual members and casual riders use Cyclistic bikes differently?"*
+
 The goal of this project is to explore user behaviour patterns to help inform a data-driven marketing strategy that increases annual memberships.
 
 ## Tools & Methods Used

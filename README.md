@@ -17,6 +17,16 @@ The business objective was guided by the following key question:
 
 The goal of this project is to explore user behaviour patterns to help inform a data-driven marketing strategy that increases annual memberships.
 
+## 🔑 Key Findings
+- **Annual members** outnumber **casual riders** by approximately *1.5 million users*.
+- On average, **casual rider** take trips that are **9 minutes longer** than those of **annual members**.
+- **Wednesdays** see the highest number of rides from annual members, exceeding casual riders by approximately 300,000 trips.
+  This, along with time-of-day trends, suggests that **annual members primarily use the bike-share service for commuting**, while **casual riders use it more for leisure.**
+
+📎 A detailed breakdown is available in the full data analysis report on my 
+
+[portfolio website](https://datascienceportfol.io/sephorakelonga)
+
 ---
 
 ## 🛠 Tools & Methods Used

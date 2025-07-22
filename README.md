@@ -3,6 +3,7 @@
 Welcome to my first GitHub Repository!
 
 This repo is part of my portfolio ecosystem - it serves as the technical **backstage** of the Cyclistic Bike-Share Case Study.
+
 Here you'll find my R Scripts, BigQuery SQL queries, and additional resources that support the full analysis.
 
 ## 📊 Project Overview
